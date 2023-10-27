@@ -1,5 +1,7 @@
 # IMPAKT2023
 IMPAKT DF workshop
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/artificialnouveau/IMPAKT2023/HEAD)
 
+[![Open Face Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb)
+
+[![Open Voice Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb)
