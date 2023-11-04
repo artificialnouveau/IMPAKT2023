@@ -7,10 +7,10 @@ This repository contains resources and notebooks for the Introduction to Deep Fa
 To get started with voice and face cloning, you can use the following Google Colab notebooks:
 
 Notebook for Voice Cloning:
-[![Open Voice Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/bef7b8dc8441fdf4242ce4e9a3f1866c/impakt2023-voice-cloning-with-advanced-rvc-inference.ipynb?authuser=1)
+[![Open Voice Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/775ea2642c0c71ce06552f394c11f6ae/impakt2023-face-cloning-with-sad-talker.ipynb?authuser=1)
 
 Note for Face Cloning:
-[![Open Face Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/e829a729599ea74ca7f310bf38b21928/impakt2023-face-cloning-with-sad-talker.ipynb?authuser=1)
+[![Open Face Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/50a72b1f9be58767ffe6270117de0fd1/impakt2023-voice-cloning-with-advanced-rvc-inference.ipynb?authuser=1)
 
 ## Installation
 
