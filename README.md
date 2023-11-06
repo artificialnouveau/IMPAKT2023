@@ -12,6 +12,9 @@ Notebook for Voice Cloning:
 Notebook for Face Cloning:
 [![Open Face Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/775ea2642c0c71ce06552f394c11f6ae/impakt2023-face-cloning-with-sad-talker.ipynb?authuser=1)
 
+[[Link]](https://docs.google.com/presentation/d/1cB_UA0N-PX8XpBcqqBnaKmHO_Tvy3xHM/edit?usp=drive_link&ouid=108673852447473972828&rtpof=true&sd=true) to the IMPAKT 2023 Workshop Presentation
+
+
 ## Usage
 
 Follow the steps in the provided Colab notebooks to learn about and experiment with voice and face cloning technologies.
